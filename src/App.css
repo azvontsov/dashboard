@@ -36,36 +36,3 @@
     transform: rotate(360deg);
   }
 }
-.container {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
-  margin: 5rem;
-  border-radius: 1rem;
-  background-color: grey;
-}
-.sidebar {
-  background-color: red;
-  height: 200px;
-  width: 200px;
-}
-.aver {
-  background-color: rgb(123, 255, 0);
-  height: 200px;
-  width: 200px;
-}
-.review {
-  background-color: rgb(0, 81, 255);
-  height: 200px;
-  width: 200px;
-}
-.senti {
-  background-color: rgb(220, 134, 43);
-  height: 200px;
-  width: 200px;
-}
-.website {
-  background-color: rgb(187, 164, 139);
-  height: 200px;
-  width: 200px;
-}
